@@ -1,0 +1,17 @@
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.csproj.AssemblyReference.cache
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.csproj.ResolveComReference.cache
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.AssemblyInfoInputs.cache
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.AssemblyInfo.cs
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.csproj.CoreCompileInputs.cache
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\bin\Debug\net6.0\AdventOfCode2021.exe
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\bin\Debug\net6.0\AdventOfCode2021.deps.json
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\bin\Debug\net6.0\AdventOfCode2021.runtimeconfig.json
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\bin\Debug\net6.0\AdventOfCode2021.dll
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\bin\Debug\net6.0\ref\AdventOfCode2021.dll
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\bin\Debug\net6.0\AdventOfCode2021.pdb
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.dll
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\ref\AdventOfCode2021.dll
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.pdb
+C:\Users\christine.mitsch\source\repos\AdventOfCode2021\obj\Debug\net6.0\AdventOfCode2021.genruntimeconfig.cache
